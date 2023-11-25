@@ -3,13 +3,13 @@ AUTHOR: Abby Tabas
 DATE: 11/25/23
 
 PROJECT DESCRIPTION:
---------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 -This project displays all earthquakes that have occurred in the past year in the United States
 -It animates through the year, adding dots for each earthquake according to its date
 -Uses CesiumJS and provided earthquake data in KML format
 
 RUNNING THE PROJECT:
--------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 -This uses a Node.js server that uses axios and express, these dependencies are included in the package.json file
 -The project can be run by simply opening the index.html file to run in a browser, or through Node
 -Install Node if not already installed
