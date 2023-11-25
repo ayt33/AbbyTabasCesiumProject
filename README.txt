@@ -14,7 +14,7 @@ RUNNING THE PROJECT:
 -The project can be run by simply opening the index.html file to run in a browser, or through Node
 -Install Node if not already installed
 -Navigate to the project folder, then install the neccesary packages by running the command: "nmp i"
--Start the server by navigating to the app folder and running the command: node server.js
+-Start the server by navigating to the app folder and running the command: "node server.js"
 -Navigate to the url http://localhost:3000 to view the project
 
 
